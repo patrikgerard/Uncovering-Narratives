@@ -31,6 +31,11 @@ Moreover, this allows us to uncover persistent stories, trending stories, and la
 - The MacroCluster class can be found in the MacroCluster.py file
 - A tutorial notebook can be found in the Tutorial_Jupyter_notebook.py
   - This contains an illustrative example and a data-intensive example of both the online, cross-temporal _story_ clustering and the additional (optional) narrative (MacroCluster) clustering.
+- We also share a [google sheets document](https://docs.google.com/spreadsheets/d/1IEebUnCKR1x2ZA4exeOpdfLbz4f3uyrWHPZ_2mqThgY/edit?usp=sharing) which contains the following:
+    1. Monthly cluster summaries -- summarizing the top trending clusters for each community for each month monitored.
+    2. Ukrainian-leaning weekly trending clusters -- summaries and associated articles of example trending clusters found in the Ukrainian-leaning community.
+    3. Russian-leaning weekly trending clusters -- summaries and associated articles of example trending clusters found in the Russian-leaning community.
+    4. Trending cluster comparison -- trending clusters compared between our method and more traditional methods.
  
 
 ## To Use the Tutorial Notebook

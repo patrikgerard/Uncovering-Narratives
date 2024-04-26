@@ -25,7 +25,6 @@ Moreover, this allows us to uncover persistent stories, trending stories, and la
 ### 2. Then, we apply an additional (optional) layer, where we use the clusters tracked in the previous step as "story clusters" and employ the MacroNarrative class to infuse expert knowledge and examine how these story clusters form larger narrative clusters. The formation and tracking of these narrative clusters is illustrated below:
 
 ![bfs_jpeg](https://github.com/patrikgerard/Uncovering-Narratives/assets/43653986/db5dfad2-adeb-450e-8213-5a84106f58b5)
-
 (In case the image does not render, the illustration is also stored [here]([https://imgur.com/a/PIJd7tG](https://imgur.com/a/oArZWmw)))
 
 

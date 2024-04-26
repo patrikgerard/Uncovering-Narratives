@@ -12,6 +12,10 @@ The class then employs measures like silhouette scores and the pseudo-F index to
 
 ![online_agglo_full_v3](https://github.com/patrikgerard/Uncovering-Narratives/assets/43653986/c2e07c7e-4980-45ed-bfaa-7e87e3aa3d4d)
 
+![online_agglo_jpg](https://github.com/patrikgerard/Uncovering-Narratives/assets/43653986/cbfeacb1-58b4-4fc3-a7b2-d7c50390fd47)
+
+
+
 
 We believe this real-time clustering -- which enables the discovery of patterns and structures in the data as it evolves, providing valuable insights into the underlying dynamics at play -- can be particularly useful in applications where data is continuously generated and needs to be categorized and understood as it is received, such as monitoring social media for information diffusion, narrative-building, or even detecting astroturfing activities.
 

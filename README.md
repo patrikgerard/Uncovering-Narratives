@@ -11,7 +11,8 @@ The OnlineAgglomerative class dynamically clusteris incoming data and re-evaluat
 The class then employs measures like silhouette scores and the pseudo-F index to evaluate the potential merging of clusters for each new batch of data, balancing immediate data integration and long-term structural integrity and coherence of clusters over time. We illustrate this methodology below:
 
 
-![online_agglo_jpg](https://github.com/patrikgerard/Uncovering-Narratives/assets/43653986/cbfeacb1-58b4-4fc3-a7b2-d7c50390fd47)
+<img src="[image.png](https://github.com/patrikgerard/Uncovering-Narratives/assets/43653986/cbfeacb1-58b4-4fc3-a7b2-d7c50390fd47)">
+<!-- ![online_agglo_jpg](https://github.com/patrikgerard/Uncovering-Narratives/assets/43653986/cbfeacb1-58b4-4fc3-a7b2-d7c50390fd47) -->
 
 
 

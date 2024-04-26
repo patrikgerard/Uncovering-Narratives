@@ -11,8 +11,8 @@ The OnlineAgglomerative class dynamically clusteris incoming data and re-evaluat
 The class then employs measures like silhouette scores and the pseudo-F index to evaluate the potential merging of clusters for each new batch of data, balancing immediate data integration and long-term structural integrity and coherence of clusters over time. We illustrate this methodology below:
 
 
-<img src="[image.png](https://github.com/patrikgerard/Uncovering-Narratives/assets/43653986/cbfeacb1-58b4-4fc3-a7b2-d7c50390fd47)">
-<!-- ![online_agglo_jpg](https://github.com/patrikgerard/Uncovering-Narratives/assets/43653986/cbfeacb1-58b4-4fc3-a7b2-d7c50390fd47) -->
+![online_agglo_jpg](https://github.com/patrikgerard/Uncovering-Narratives/assets/43653986/cbfeacb1-58b4-4fc3-a7b2-d7c50390fd47/)
+(In case the image does not render, the illustration is also stored [here](https://imgur.com/a/PIJd7tG))
 
 
 
@@ -25,6 +25,8 @@ Moreover, this allows us to uncover persistent stories, trending stories, and la
 ### 2. Then, we apply an additional (optional) layer, where we use the clusters tracked in the previous step as "story clusters" and employ the MacroNarrative class to infuse expert knowledge and examine how these story clusters form larger narrative clusters. The formation and tracking of these narrative clusters is illustrated below:
 
 ![bfs_jpeg](https://github.com/patrikgerard/Uncovering-Narratives/assets/43653986/db5dfad2-adeb-450e-8213-5a84106f58b5)
+
+(In case the image does not render, the illustration is also stored [here]([https://imgur.com/a/PIJd7tG](https://imgur.com/a/oArZWmw)))
 
 
 ## Directory

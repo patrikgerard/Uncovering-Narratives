@@ -41,6 +41,6 @@ Moreover, this allows us to uncover persistent stories, trending stories, and la
  
 
 ## To Use the Tutorial Notebook
-- We created the tutorial notebook in google colab to allows for users to quickly port it. However, there are data-intense elements, and so we had to reduce some of the data analyzed to allow for it to work within the hardware confines of google colab. However, we provide the full, downloadable data for the more data-intense task [here](https://drive.google.com/drive/folders/1NH7HSk3m5eR2wLcmPTTIIqJfC6w6Mkl9?usp=sharing).
+- We created the [tutorial notebook](https://colab.research.google.com/drive/11PRIrmERbBkf-YZxlCFmiTc5vcYg9iH7?usp=sharing) in google colab to allows for users to quickly port it. However, there are data-intense elements, and so we had to reduce some of the data analyzed to allow for it to work within the hardware confines of google colab. However, we provide the full, downloadable data for the more data-intense task [here](https://drive.google.com/drive/folders/1NH7HSk3m5eR2wLcmPTTIIqJfC6w6Mkl9?usp=sharing).
   - We recommend downloading the notebook and the data to perform the more data-intensive task, but we have provided a clear example in the outputs of the current notebook.
  
